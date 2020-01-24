@@ -1,3 +1,3 @@
 # it_256
-lab course presidency12
+lab course presidency
 hello world
